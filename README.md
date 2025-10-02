@@ -3,7 +3,7 @@
 <img width="1906" height="970" alt="image" src="https://github.com/user-attachments/assets/fbc5d5ed-90b1-4cf0-a386-5a9b38cb3a90" />
 
 
-MiniChatBot
+<b>MiniChatBot</b>
 
 MiniChatBot is a lightweight, customizable chatbot built with ReactJS. It’s designed for seamless integration into modern web applications, providing an interactive and user-friendly way to handle conversations, FAQs, and customer engagement.
 
